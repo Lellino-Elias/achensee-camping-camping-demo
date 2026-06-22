@@ -41,7 +41,7 @@ const achenseeCamping: CampsiteConfig = {
     {
       title: "Mitten in der Bergwelt",
       text: "Rund um den See türmen sich Rofan und Karwendel — Tiroler Bergpanorama direkt vom Vorzelt.",
-      image: { src: `${IMG}/gallery-dc390bcdc8.webp`, alt: "Camper mit Blick auf Berge und Achensee" },
+      image: { src: `${IMG}/activity-3e590dbd69.webp`, alt: "Wandern am Rofan über dem Achensee mit Blick auf das Karwendel" },
     },
   ],
 
@@ -117,7 +117,7 @@ const achenseeCamping: CampsiteConfig = {
       "500 km Wanderwege, Schifffahrt seit 1887 und Bergbahnen ringsum — die Urlaubsregion Achensee beginnt direkt vor dem Platz.",
     tag: "April bis Oktober",
     images: [
-      { src: `${IMG}/activity-3e590dbd69.webp`, alt: "Wandern mit Bergpanorama über dem Achensee" },
+      { src: `${IMG}/gallery-dc390bcdc8.webp`, alt: "Camper am Achensee mit Blick auf die Tiroler Berge" },
       { src: `${IMG}/gallery-ff18161186.webp`, alt: "Schiff der Achenseeschifffahrt am Steg" },
     ],
   },
